@@ -5,6 +5,6 @@
     <color name="colorAccent">#FF4081</color>
     <color name="bg_main">#2c2931</color>
     <color name="bg_second">#313031</color>
-    <color name="text_color">#ffffff</color>
+    <color name="text_color">#d6d5d5</color>
     <color name="bg_button">#c34a36</color>
 </resources>

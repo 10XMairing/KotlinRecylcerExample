@@ -11,7 +11,7 @@ class SecondActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
 
-        var  list  = ArrayList<String>()
+        val  list  = ArrayList<String>()
         list.add("this is a test 1")
         list.add("this is a test 2")
         list.add("this is a test 3")
